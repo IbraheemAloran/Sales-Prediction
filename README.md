@@ -6,6 +6,11 @@ This project combines **Exploratory Data Analysis (EDA), feature engineering, an
 
 The final system achieved **~89% forecasting accuracy for monthly sales predictions**.
 
+
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/08c1ee59-9746-4978-90f7-55f65416f5a8" />
+
+
+
 ---
 
 # 🚀 Project Overview
@@ -14,6 +19,7 @@ Understanding future sales trends is essential for business planning, inventory 
 
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
+- Data Visualizations and Dashbaords with Power BI
 - Time series decomposition
 - Feature engineering with lag and temporal features
 - Training multiple forecasting models
@@ -75,6 +81,11 @@ Temporal features extracted from timestamps:
 These features help models learn **seasonality patterns**.
 
 ---
+
+<img width="1284" height="725" alt="image" src="https://github.com/user-attachments/assets/2e104480-fb21-4a5b-b269-1a19a22176cf" />
+
+<img width="1276" height="716" alt="image" src="https://github.com/user-attachments/assets/93b322e4-5498-41bc-847d-c467e5e67312" />
+
 
 # 🧠 Forecasting Models
 
